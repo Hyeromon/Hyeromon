@@ -1,19 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Hyeromon/Hyeromon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![헤더로고](https://github.com/user-attachments/assets/ee40eb4a-dff8-4070-b47e-9978557c7451)
 
 ## 🐢자기소개
@@ -22,7 +8,7 @@ Here are some ideas to get you started:
 💬Email : trina9018@gmail.com
 
 
-## 교육이수
+## 📚교육이수
 ✔️프로그래머스 백엔드 데브코스 2기 3회차
 
 

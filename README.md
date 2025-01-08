@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![헤더로고](https://github.com/user-attachments/assets/cbf0f07e-f241-4ed0-800b-71e389f139b0)
-
+![헤더로고](https://github.com/user-attachments/assets/ee40eb4a-dff8-4070-b47e-9978557c7451)
 
 ## 🐢자기소개
 백엔드 개발자 송혜원입니다.

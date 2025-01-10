@@ -8,7 +8,7 @@
 💬 Email : trina9018@gmail.com
 
 
-🌱 Blog(https://hyeromon.tistory.com/)
+🌱 [Blog](https://hyeromon.tistory.com/)
 
 
 ## 📚교육이수

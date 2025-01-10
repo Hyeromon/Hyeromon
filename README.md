@@ -5,7 +5,8 @@
 ## 🐢자기소개
 백엔드 개발자 송혜원입니다.
 
-💬Email : trina9018@gmail.com
+💬 Email : trina9018@gmail.com
+🌱 Blog(https://hyeromon.tistory.com/)
 
 
 ## 📚교육이수
